@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jobteaser/chewy-translation.svg?branch=master)](https://travis-ci.org/jobteaser/chewy-translation) [![Code Climate](https://codeclimate.com/github/jobteaser/chewy-translation/badges/gpa.svg)](https://codeclimate.com/github/jobteaser/chewy-translation)
+
 # Chewy::Translation
 
 Chewy::Translation is an easy integration of Translation within Chewy.
