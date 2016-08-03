@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in chewy-puret.gemspec
+ruby '2.3.1'
+
+# Specify your gem's dependencies in chewy-translation.gemspec
 
 gem 'chewy'
-gem 'puret'
+gem 'activesupport'
 
 gemspec
